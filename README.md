@@ -1,2 +1,2 @@
 # AsicAsk
-Based on MMLanScanDemo code and provide TCP connection and data receiving for CryptoCurrency Asic Miners by sending API commands
+Based on MMLanScanDemo code, provide TCP connection and data receiving for Asic Miners by sending API commands
